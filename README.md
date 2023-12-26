@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hackerdonut
-- 👀 I’m interested in the use of machine learning and AI in advancing medical modeling tools
-- 🌱 I’m currently learning advanced Python and neural networks
+- 👀 I’m interested in the use of machine learning and AI in medical modeling software
+- 🌱 I’m currently learning Python and neural networks
 - 📫 Skills: Java, MATLAB, beginner Python
 
 <!---
